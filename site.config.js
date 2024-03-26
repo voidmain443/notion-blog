@@ -1,25 +1,25 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "Voidmain443",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    role: "Project , Scrum Master",
+    bio: "I develop everything that What i have to do.",
+    email: "voidmain443@gmail.com",
+    linkedin: "voidmain443",
+    github: "voidmain443",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `voidmain443-log`,
+      href: "https://github.com/voidmain443/notion-blog",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Voidmain443",
+    description: "welcome to voidmain443 notion-blog!",
   },
 
   // CONFIG configration (required)
